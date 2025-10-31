@@ -3,8 +3,6 @@
 <div align="center">
 <br />
 <img align="center" src="opshell.png" alt="Opshell">
-<br />
-<a href="http://opshell.ricktbaker.com">Website</a>
 <br>
 <br>
 </div>
@@ -28,7 +26,7 @@ Primary Components:
 
 #### Downloads
 
-The easiest way to use this project is to download one of the prebuild packages. Instead of maintaining download versions in two different places, you can find downloads for Mac and Windows on the [Opshell Website](http://opshell.ricktbaker.com)
+The easiest way to use this project is to download one of the prebuild packages.
 
 Linux Package coming soon.
 
